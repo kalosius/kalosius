@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalosius
 - 👀 I’m interested in Web application development
-- 🌱 I’m currently learning python at refactory.academy
-- 💞️ I’m looking to collaborate on front end development
+- 🌱 I’m currently learning python at https://www.refactory.ug/
+- 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me aloisiuskasozi@gmail.com
 
 <!---
